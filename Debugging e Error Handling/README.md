@@ -1,14 +1,14 @@
-#Tratamento de Erros
+# Tratamento de Erros
 Atividade prática referente ao curso "Tratamento de Erros" da Digital Innovation One.
 
-##Atividade: validação de erros por tipo
+## Atividade: validação de erros por tipo
 O objetivo é que a função receba um array e retorne ele caso o seu tamanho corresponda ao número enviado como parâmetro na função. Caso contrário, um erro será lançado.
 
-###Crie uma função que recebe um array e um número
+### Crie uma função que recebe um array e um número
 Realize as seguintes validações
-*Se os parâmetros não forem enviados, lance um erro do tipo [`ReferenceError`](#code)
-*Se o array não for do tipo 'object', lance um erro do tipo [`TypeError`](#code)
-*Se o número não for do tipo 'number', lance um erro do tipo [`TypeError`](#code)
-*Se o tamanho do array for diferente do número enviado como parâmetro, lance um erro do tipo [`RangeError`](#code)
-*Utilize a declaração [`try...catch`](#code)
-*Filtre as chamadas de catch por cada tipo de erro utilizando o operador [`instanceof`](#code)
+* Se os parâmetros não forem enviados, lance um erro do tipo [`ReferenceError`](#code)
+* Se o array não for do tipo 'object', lance um erro do tipo [`TypeError`](#code)
+* Se o número não for do tipo 'number', lance um erro do tipo [`TypeError`](#code)
+* Se o tamanho do array for diferente do número enviado como parâmetro, lance um erro do tipo [`RangeError`](#code)
+* Utilize a declaração [`try...catch`](#code)
+* Filtre as chamadas de catch por cada tipo de erro utilizando o operador [`instanceof`](#code)
