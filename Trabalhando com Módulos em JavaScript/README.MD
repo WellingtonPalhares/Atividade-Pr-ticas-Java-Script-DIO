@@ -1,0 +1,20 @@
+
+# Trabalhando com Módulos em JavaScript
+
+Este repositório contém a atividade prática do Curso "Trabalhando com Módulos em JavaScript", que faz parte do Basecamp de Javascript da [Digital Innovation One](https://digitalinnovation.one/).
+
+## Atividade
+
+Esta atividade teve como objetivo mostrar **no console do navegador** como os módulos funcionam.
+
+1. Instale a extensão "Live Server" no seu VSCode;
+2. Crie um arquivo com uma estrutura HTML padrão;
+3. Crie dois arquivos `.js` ou `.mjs`, um chamado `funcoes` e outro chamado `main`;
+4. No arquivo `funcoes`:
+   1. Crie uma função chamada `mostraIdade`, que recebe `nome` e `idade` e retorna a string: `A idade de ${nome} é ${idade}`;
+   2. Siga o mesmo padrão para outras funções como `mostraCidade` e `mostraHobby`;
+   3. Exporte estas funções.
+5. No arquivo `main`:
+   1. Importe as funções do arquivo `funcoes`;
+   2. Faça a chamada de todas elas;
+6. Utilizando a extensão "Live Server", abra o seu navegador e veja no console que as informações foram logadas corretamente.

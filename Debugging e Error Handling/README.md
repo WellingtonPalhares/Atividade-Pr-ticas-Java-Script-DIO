@@ -1,5 +1,5 @@
 # Tratamento de Erros
-Atividade prática referente ao curso "Tratamento de Erros" da Digital Innovation One.
+Este repositório contém a atividade prática do Curso "Tratamento de Erros", que faz parte do Basecamp de Javascript da [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Atividade: validação de erros por tipo
 O objetivo é que a função receba um array e retorne ele caso o seu tamanho corresponda ao número enviado como parâmetro na função. Caso contrário, um erro será lançado.
